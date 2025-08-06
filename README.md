@@ -3,7 +3,7 @@
 ## Hi there, I'm Shahd Abu Hassanien👋
 Welcome to my GitHub profile! ,I'm a Data Scientist and Machine Learning Engineer who loves learning and exploring new technologies. Here you'll find a collection of my projects — from data analysis to predictive modeling — as I continue growing and building in public.
 
-### 🛠️ Technologies and Tools
+### Technologies and Tools
 
 
 <p>  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
